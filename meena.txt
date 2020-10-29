@@ -1,6 +1,6 @@
 Meena Conversation 1
 Human: Hi!
-Meena: Hey there! What's up?
+Meena: Hey there! What's up, How are you?
 Human: Same old, Monday blues...what are you up to?
 Meena: I'm procrastinating on a paper I'm supposed to be writing.
 Human: are you thinking of pulling an all nighter?
